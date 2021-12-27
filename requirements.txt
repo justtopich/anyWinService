@@ -1,0 +1,5 @@
+loguru==0.5.3
+psutil==5.8.0
+pypiwin32==223
+pywin32==301
+pyinstaller==4.7

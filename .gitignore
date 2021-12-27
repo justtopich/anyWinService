@@ -1,0 +1,9 @@
+.idea/
+**/*.log
+bin/
+.venv/
+**/__pycache__/
+bin-linux-x64/
+bin-win-x64/
+src/error.txt
+src/anyWinService/
